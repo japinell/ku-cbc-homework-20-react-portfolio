@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ku-cbc-homework-20-react-portfolio/static/css/main.af6bca6d.chunk.css",
-    "main.js": "/ku-cbc-homework-20-react-portfolio/static/js/main.b3bf93ca.chunk.js",
-    "main.js.map": "/ku-cbc-homework-20-react-portfolio/static/js/main.b3bf93ca.chunk.js.map",
+    "main.js": "/ku-cbc-homework-20-react-portfolio/static/js/main.a45a2d91.chunk.js",
+    "main.js.map": "/ku-cbc-homework-20-react-portfolio/static/js/main.a45a2d91.chunk.js.map",
     "runtime-main.js": "/ku-cbc-homework-20-react-portfolio/static/js/runtime-main.cb13d4f7.js",
     "runtime-main.js.map": "/ku-cbc-homework-20-react-portfolio/static/js/runtime-main.cb13d4f7.js.map",
     "static/css/2.5ba044a3.chunk.css": "/ku-cbc-homework-20-react-portfolio/static/css/2.5ba044a3.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.5ba044a3.chunk.css",
     "static/js/2.85afcc74.chunk.js",
     "static/css/main.af6bca6d.chunk.css",
-    "static/js/main.b3bf93ca.chunk.js"
+    "static/js/main.a45a2d91.chunk.js"
   ]
 }
